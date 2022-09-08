@@ -1,1 +1,1 @@
-# The-numerb-of-vowels-in-a-string
+# The-number-of-vowels-in-a-string
